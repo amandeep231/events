@@ -2,50 +2,56 @@
   "events": [
     {
       "id": 1,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Mobile Application Development",
+      "venue":"Lovely Professional University,Phagwara Punjab",
+      "tPrice":"2500",
+      "date":"25/07/2020",
+      "timmings":"10am to 5pm",
+      "phone":"7845612211"
     },
         {
       "id": 2,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Code Gladiators",
+      "venue":"Amity University , Noida, Uttar Pradesh ",
+      "tPrice":"500",
+      "timmings":"2 pm to 5pm",
+      "date":"26/06/2020",
+      "phone":"8536887563"
     },
     {
       "id": 3,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "GameSoundCon",
+      "venue":"DTU, New Delhi",
+      "tPrice":"100",
+      "date":"10/06/2020",
+      "timmings":"12pm to 3pm",
+      "phone":"7589631205"
     },
         {
       "id": 4,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Cyber Security Workshop ",
+      "venue":"Maharaja Agrasen ,Rohini, New Delhi ",
+      "tPrice":"1000",
+      "date":"14/06/2020",
+      "timmings":"9am to 5pm",
+      "phone":"8527639442"
     },{
       "id": 5,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "MERN STACK Workshop",
+      "venue":"IIT Delhi",
+      "tPrice":"500",
+      "date":"21/07/2020",
+      "timmings":"9am to 10pm",
+      "phone":"7418529630"
     },
         {
       "id": 6,
-      "name": "hello",
-      "venue":"ABC",
-      "tPrice":"..",
-      "timmings":"...",
-      "phone":"...."
+      "name": "Competitive Coding Workshop",
+      "venue":"Vellore Institute of Technology,Tamil Nadu",
+      "tPrice":"1000",
+      "date":"23/06/2020",
+      "timmings":"9am to 5pm",
+      "phone":"9657422310"
     }
   ]
 }
