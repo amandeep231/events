@@ -1,11 +1,47 @@
 {
-  "posts": [
+  "events": [
     {
       "id": 1,
-      "title": "hello"
+      "Name": "",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
+    },
+    {
+      "id": 2,
+      "Name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
+    },
+    {
+      "id": 3,
+      "Name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
+    },
+    {
+      "id": 4,
+      "Name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
+    },
+    {
+      "id": 5,
+      "Name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
+    },
+    {
+      "id": 6,
+      "Name": "hello",
+      "Venue":"...",
+      "Tprice":"...",
+      "Timings":"....",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
 }
