@@ -2,46 +2,50 @@
   "events": [
     {
       "id": 1,
-      "Name": "",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     },
-    {
+        {
       "id": 2,
-      "Name": "hello",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     },
     {
       "id": 3,
-      "Name": "hello",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     },
-    {
+        {
       "id": 4,
-      "Name": "hello",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
-    },
-    {
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
+    },{
       "id": 5,
-      "Name": "hello",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
     },
-    {
+        {
       "id": 6,
-      "Name": "hello",
-      "Venue":"...",
-      "Tprice":"...",
-      "Timings":"....",
-    },
-  ]ss
-  
+      "name": "hello",
+      "venue":"ABC",
+      "tPrice":"..",
+      "timmings":"...",
+      "phone":"...."
+    }
+  ]
 }
